@@ -20,6 +20,6 @@ public final class Constants {
 
     public static final int POT_ANALOG_IN_ID = 0;
     public static final int SPARK_PWM_ID = 0;
-    public static final int LIMIT_SWITCH_DIO_ID = 0;
+    public static final int LS_DIO_ID = 0;
 
 }
